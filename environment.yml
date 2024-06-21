@@ -1,0 +1,12 @@
+name: nbdev-matplotlib-test
+channels:
+  - conda-forge
+dependencies:
+  - python=3.10
+  - ipykernel # required for jupyter notebook in VS Code
+  - jupyterlab
+  - pip  # if you need more packages installed from pip 
+  - pip:
+    - jupyterlab-quarto
+    - nbdev==2.3.12
+    - -e '.[dev]'

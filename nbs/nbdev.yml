@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-matplotlib-test"
+  site-url: "https://idahlke-blacksky.github.io/nbdev-matplotlib-test"
+  description: "testing bug for nbdev and matplotlib"
+  repo-branch: main
+  repo-url: "https://github.com/idahlke-blacksky/nbdev-matplotlib-test"
