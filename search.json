@@ -1,0 +1,122 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-matplotlib-test",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "nbdev-matplotlib-test"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-matplotlib-test",
+    "section": "Install",
+    "text": "Install\npip install nbdev_matplotlib_test",
+    "crumbs": [
+      "nbdev-matplotlib-test"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-matplotlib-test",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "nbdev-matplotlib-test"
+    ]
+  },
+  {
+    "objectID": "notebook_f.html",
+    "href": "notebook_f.html",
+    "title": "Notebook F",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nfrom os import write\n\n\nwrite(1, b'Starting notebook_f.ipynb\\n')\n\n26\n\n\n\nfig, ax = plt.subplots()\nax.plot([1,2,3])\nplt.show()\n\n&lt;Figure size 640x480 with 1 Axes&gt;\n\n\n\nwrite(1, b'Finishing notebook_f.ipynb\\n')\n\n27",
+    "crumbs": [
+      "Notebook F"
+    ]
+  },
+  {
+    "objectID": "notebook_g.html",
+    "href": "notebook_g.html",
+    "title": "Notebook G",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nfrom os import write\n\n\nwrite(1, b'Starting notebook_g.ipynb\\n')\n\n26\n\n\n\nfig, ax = plt.subplots()\nax.plot([1,2,3])\nplt.show()\n\n&lt;Figure size 640x480 with 1 Axes&gt;\n\n\n\nwrite(1, b'Finishing notebook_g.ipynb\\n')\n\n27",
+    "crumbs": [
+      "Notebook G"
+    ]
+  },
+  {
+    "objectID": "notebook_d.html",
+    "href": "notebook_d.html",
+    "title": "Notebook D",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nfrom os import write\n\n\nwrite(1, b'Starting notebook_d.ipynb\\n')\n\n26\n\n\n\nfig, ax = plt.subplots()\nax.plot([1,2,3])\nplt.show()\n\n\n\n\n\n\n\n\n\nwrite(1, b'Finishing notebook_d.ipynb\\n')\n\n27",
+    "crumbs": [
+      "Notebook D"
+    ]
+  },
+  {
+    "objectID": "notebook_c.html",
+    "href": "notebook_c.html",
+    "title": "Notebook C",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nfrom os import write\n\n\nwrite(1, b'Starting notebook_c.ipynb\\n')\n\n26\n\n\n\nfig, ax = plt.subplots()\nax.plot([1,2,3])\nplt.show()\n\n\n\n\n\n\n\n\n\nwrite(1, b'Finishing notebook_c.ipynb\\n')\n\n27",
+    "crumbs": [
+      "Notebook C"
+    ]
+  },
+  {
+    "objectID": "notebook_i.html",
+    "href": "notebook_i.html",
+    "title": "Notebook I",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nfrom os import write\n\n\nwrite(1, b'Starting notebook_i.ipynb\\n')\n\n26\n\n\n\nfig, ax = plt.subplots()\nax.plot([1,2,3])\nplt.show()\n\n\n\n\n\n\n\n\n\nwrite(1, b'Finishing notebook_i.ipynb\\n')\n\n27",
+    "crumbs": [
+      "Notebook I"
+    ]
+  },
+  {
+    "objectID": "notebook_h.html",
+    "href": "notebook_h.html",
+    "title": "Notebook H",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nfrom os import write\n\n\nwrite(1, b'Starting notebook_h.ipynb\\n')\n\n26\n\n\n\nfig, ax = plt.subplots()\nax.plot([1,2,3])\nplt.show()\n\n\n\n\n\n\n\n\n\nwrite(1, b'Finishing notebook_h.ipynb\\n')\n\n27",
+    "crumbs": [
+      "Notebook H"
+    ]
+  },
+  {
+    "objectID": "notebook_a.html",
+    "href": "notebook_a.html",
+    "title": "Notebook A",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nfrom os import write\n\n\nwrite(1, b'Starting notebook_a.ipynb\\n')\n\n26\n\n\n\nfig, ax = plt.subplots()\nax.plot([1,2,3])\nplt.show()\n\n&lt;Figure size 640x480 with 1 Axes&gt;\n\n\n\nwrite(1, b'Finishing notebook_a.ipynb\\n')\n\n27",
+    "crumbs": [
+      "Notebook A"
+    ]
+  },
+  {
+    "objectID": "notebook_e.html",
+    "href": "notebook_e.html",
+    "title": "Notebook E",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nfrom os import write\n\n\nwrite(1, b'Starting notebook_e.ipynb\\n')\n\n26\n\n\n\nfig, ax = plt.subplots()\nax.plot([1,2,3])\nplt.show()\n\n&lt;Figure size 640x480 with 1 Axes&gt;\n\n\n\nwrite(1, b'Finishing notebook_e.ipynb\\n')\n\n27",
+    "crumbs": [
+      "Notebook E"
+    ]
+  },
+  {
+    "objectID": "notebook_b.html",
+    "href": "notebook_b.html",
+    "title": "Notebook B",
+    "section": "",
+    "text": "import matplotlib.pyplot as plt\nfrom os import write\n\n\nwrite(1, b'Starting notebook_b.ipynb\\n')\n\n26\n\n\n\nfig, ax = plt.subplots()\nax.plot([1,2,3])\nplt.show()\n\n&lt;Figure size 640x480 with 1 Axes&gt;\n\n\n\nwrite(1, b'Finishing notebook_b.ipynb\\n')\n\n27",
+    "crumbs": [
+      "Notebook B"
+    ]
+  }
+]
