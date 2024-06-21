@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://idahlke-blacksky.github.io',
                 'git_url': 'https://github.com/idahlke-blacksky/nbdev-matplotlib-test',
                 'lib_path': 'nbdev_matplotlib_test'},
-  'syms': {'nbdev_matplotlib_test.core': {'nbdev_matplotlib_test.core.foo': ('core.html#foo', 'nbdev_matplotlib_test/core.py')}}}
+  'syms': {}}

@@ -1,0 +1,7 @@
+website:
+  sidebar:
+    contents:
+      - index.ipynb
+      - notebook_a.ipynb
+      - notebook_b.ipynb
+      - notebook_c.ipynb
